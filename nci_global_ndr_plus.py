@@ -111,7 +111,7 @@ SCENARIOS = {
     #    'precip_id': 'worldclim_2015',
     #    'fertilizer_id': 'extensificationnapp_allcrops_rainfedfootprint_gapfilled_observednapprevb',
     #    'biophysical_table_id': 'nci-ndr-biophysical_table_forestry_grazing',
-    },
+    #},
     'extensification_bmps_irrigated': {
         'lulc_id': 'extensification_bmps_irrigated',
         'precip_id': 'worldclim_2015',
