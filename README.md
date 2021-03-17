@@ -1,3 +1,5 @@
+THIS REPO HAS BEEN DEPRECATED IN FAVOR OF GLOBAL PIPELINE: https://github.com/therealspring/ndr_plus_global_pipeline
+
 This is the nci ndr that followed the cbd ndr implementation, fixing an issue with not filling in the edges of watersheds.
 
 We are just calling the model within inspring.ndr_plus.ndr_plus import ndr_plus
